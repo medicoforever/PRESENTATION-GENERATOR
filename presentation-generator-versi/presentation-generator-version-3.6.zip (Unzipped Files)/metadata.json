@@ -1,0 +1,6 @@
+{
+  "name": "PRESENTATION GENERATOR VERSION 3.6",
+  "description": "A web application to generate Reveal.js presentations using AI, based on user-provided data and a multi-step refinement process.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
